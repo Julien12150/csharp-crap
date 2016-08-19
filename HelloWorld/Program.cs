@@ -22,14 +22,16 @@ namespace HelloWorld
                     "",
                     "-troll someone on 4chan",
                     "-make a dank maymay",
-                    "-do another dumb thing" });
+                    "-all hail potatos",
+                    "-be ugly"});
+                Console.WriteLine("interesting content");
             }
             Console.ReadKey();
             Console.WriteLine("- shush child no talking");
             Console.ReadKey();
             Console.WriteLine("- shhh");
             Console.ReadKey();
-            Console.WriteLine("- ok bye");
+            Console.WriteLine("- ok bye also if you see this you can claim a cookie ;)");
         }
     }
 }
